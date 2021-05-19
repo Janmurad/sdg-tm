@@ -16,9 +16,9 @@ languages:
   - en
 
 # URL for the "Edit Data" button on indicators.
-data_edit_url: http://prose.io/#Janmurad/sdg-tm/edit/develop/data/indicator_[id].csv
+data_edit_url: http://prose.io/#Janmurad/sdg-tm/edit/develop/data/indicator_1-1-1.csv
 # URL for the "Edit Metadata" button on indicators.
-metadata_edit_url: http://prose.io/#Janmurad/sdg-tm/edit/develop/meta/[id].md
+metadata_edit_url: http://prose.io/#Janmurad/sdg-tm/edit/develop/meta/1-1-1.md
 
 # Automatically create indicator pages, goal pages,
 # and some other required pages.
